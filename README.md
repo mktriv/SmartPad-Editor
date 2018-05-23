@@ -1,0 +1,2 @@
+# SmartPad-Editor
+This Editor Provides some advanced features in Old Notepad. It includes features like Spell Checker with Suggestion and this editor checks spelling in 6 languages and another feature is that when you wite programming code in it and it will predict all the keywords that you have to type in 3 languages in Java, c and Python. And also there is advancved theme styles with new editing styles in it.
